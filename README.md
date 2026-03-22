@@ -1,8 +1,8 @@
 <h1 align="center">Peter Ozahl</h1>
-<h3 align="center">DAM</h3>
+<h3 align="center">Futuro desarrollador</h3>
 
 <p align="center">
-  <img src="perfil.jpg" width=300 />
+  <img src="img/fondo.png" width=300 />
 </p>
 
 <p align="center">
