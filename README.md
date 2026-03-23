@@ -41,23 +41,23 @@ Studing **Multiplatform Application Developer (MAD)**
 
 <td width="33%" align="center">
 
-### 📱 App Android  
+### 📱  App academia
 Java · Android Studio  
 
 Aplicación móvil desarrollada en Android para gestión de tareas.
 
-➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
+➡️ [Ver repositorio](https://github.com/peterozahlll/PROYECTO_ANDROID)
 
 </td>
 
 <td width="33%" align="center">
 
-### 🔗 API REST  
+### 🔗   
 Java · Spring · Maven  
 
 Backend REST para gestión de datos y servicios.
 
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
+➡️ [Ver repositorio](https://github.com/peterozahlll/API_REST)
 
 </td>
 
@@ -68,7 +68,7 @@ React / Web
 
 Panel interactivo de visualización de datos.
 
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
+➡️ [Ver repositorio](https://github.com/peterozahlll/DASHBOARD)
 
 </td>
 
@@ -80,7 +80,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js,python," />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css,js,python,mongodb" />
 </p>
 
 ---
@@ -98,8 +98,9 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true"/></br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true" bg_color=#000000>
+  </br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact" & bg_color=#000000/>
 </p>
 
 ---
@@ -117,5 +118,5 @@ Panel interactivo de visualización de datos.
 ---
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/peterozahlll
+⭐ Gracias por tu visita — github.com/peterozahlll
 </p>
