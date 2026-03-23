@@ -98,7 +98,7 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterozahlll&show_icons=true"/></br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterozahlll&layout=compact"/>
 </p>
 
