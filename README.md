@@ -22,19 +22,7 @@
 
 ---
 
-## 🧠 About me
-
-Studing **Multiplatform Application Developer (MAD)** 
-
-- 🚀 Interés en desarrollo Full Stack  
-- 📱 Desarrollo Android con Java  
-- ⚙️ APIs REST con Java / Spring  
-- 🌍 B2 in English  
-- 📚 Aprendizaje continuo  
-
----
-
-## ⭐ Proyectos Destacados
+## ⭐ Repos Destacados
 
 <table>
 <tr>
@@ -77,15 +65,24 @@ Panel interactivo de visualización de datos.
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Technologies and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css,js,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,git,github,html,css,js,python,mongodb"/>
 </p>
 
 ---
 
-## 🧩 Metodologías ágiles
+## 🧠 Skills
+
+Studing **Multiplatform Application Developer (MAD)** 
+
+- 🚀 Interés en desarrollo backend 
+- ⚙️ APIs REST con Java 
+- 🌍 B2 in English  
+- 📚 Aprendizaje continuo  
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
