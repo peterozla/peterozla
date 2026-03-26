@@ -1,0 +1,73 @@
+<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="8" y="8" width="664" height="324" rx="6" fill="#0F0F14" stroke="#2E3E6E" stroke-width="2"/>
+  <rect x="14" y="14" width="652" height="312" rx="4" fill="none" stroke="#4A5FA3" stroke-width="0.8" opacity="0.5"/>
+
+  <rect x="8" y="8" width="664" height="50" rx="6" fill="#2C2F3A" opacity="0.6"/>
+  <line x1="8" y1="58" x2="672" y2="58" stroke="#2E3E6E" stroke-width="1"/>
+  <line x1="8" y1="59" x2="672" y2="59" stroke="#4A5FA3" stroke-width="0.4" opacity="0.4"/>
+
+  <rect x="24" y="20" width="6" height="26" rx="2" fill="#4A5FA3"/>
+  <rect x="34" y="20" width="4" height="26" rx="2" fill="#7FA9E1" opacity="0.5"/>
+
+  <text font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#7FA9E1" x="50" y="38" letter-spacing="5">STATS</text>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#B8A9D6" x="50" y="52" letter-spacing="2" opacity="0.7">PETER OZAHL</text>
+
+  <rect x="580" y="22" width="72" height="22" rx="3" fill="#2E3E6E" stroke="#4A5FA3" stroke-width="0.5"/>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#7FA9E1" x="616" y="36" text-anchor="middle" letter-spacing="1">v1.0</text>
+  <rect x="620" y="24" width="4" height="4" rx="1" fill="#7FA9E1" opacity="0.4"/>
+  <rect x="627" y="24" width="4" height="4" rx="1" fill="#4A5FA3" opacity="0.6"/>
+  <rect x="634" y="24" width="4" height="4" rx="1" fill="#2E3E6E" opacity="0.8"/>
+
+  <!-- ROW 1: MANEJO DEL ESTRES 90% -->
+  <rect x="24" y="78" width="2" height="44" rx="1" fill="#4A5FA3"/>
+  <text font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#C7C9D1" x="36" y="93" letter-spacing="1.5">MANEJO DEL ESTRES</text>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#7A6AAE" x="648" y="93" text-anchor="end">90%</text>
+  <rect x="36" y="100" width="594" height="8" rx="2" fill="#2C2F3A"/>
+  <rect x="36" y="100" width="534" height="8" rx="2" fill="#2E3E6E"/>
+  <rect x="36" y="100" width="534" height="4" rx="2" fill="#4A5FA3" opacity="0.5"/>
+  <rect x="36" y="100" width="534" height="2" rx="1" fill="#7FA9E1" opacity="0.2"/>
+  <circle cx="570" cy="104" r="4" fill="#4B3F73" stroke="#7A6AAE" stroke-width="1"/>
+
+  <!-- ROW 2: CONCENTRACION 100% -->
+  <rect x="24" y="128" width="2" height="44" rx="1" fill="#7FA9E1"/>
+  <text font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#C7C9D1" x="36" y="143" letter-spacing="1.5">CONCENTRACION</text>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#7FA9E1" x="648" y="143" text-anchor="end">100%</text>
+  <rect x="36" y="150" width="594" height="8" rx="2" fill="#2C2F3A"/>
+  <rect x="36" y="150" width="594" height="8" rx="2" fill="#2E3E6E"/>
+  <rect x="36" y="150" width="594" height="4" rx="2" fill="#4A5FA3" opacity="0.5"/>
+  <rect x="36" y="150" width="594" height="2" rx="1" fill="#7FA9E1" opacity="0.2"/>
+  <circle cx="630" cy="154" r="4" fill="#4B3F73" stroke="#7FA9E1" stroke-width="1"/>
+
+  <!-- ROW 3: TRABAJO EN EQUIPO 85% -->
+  <rect x="24" y="178" width="2" height="44" rx="1" fill="#4A5FA3"/>
+  <text font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#C7C9D1" x="36" y="193" letter-spacing="1.5">TRABAJO EN EQUIPO</text>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#7A6AAE" x="648" y="193" text-anchor="end">85%</text>
+  <rect x="36" y="200" width="594" height="8" rx="2" fill="#2C2F3A"/>
+  <rect x="36" y="200" width="504" height="8" rx="2" fill="#2E3E6E"/>
+  <rect x="36" y="200" width="504" height="4" rx="2" fill="#4A5FA3" opacity="0.5"/>
+  <rect x="36" y="200" width="504" height="2" rx="1" fill="#7FA9E1" opacity="0.2"/>
+  <circle cx="540" cy="204" r="4" fill="#4B3F73" stroke="#7A6AAE" stroke-width="1"/>
+
+  <!-- ROW 4: TRABAJO EN SOLITARIO 90% -->
+  <rect x="24" y="228" width="2" height="44" rx="1" fill="#4A5FA3"/>
+  <text font-family="'Courier New', monospace" font-size="10" font-weight="700" fill="#C7C9D1" x="36" y="243" letter-spacing="1.5">TRABAJO EN SOLITARIO</text>
+  <text font-family="'Courier New', monospace" font-size="9" fill="#7A6AAE" x="648" y="243" text-anchor="end">90%</text>
+  <rect x="36" y="250" width="594" height="8" rx="2" fill="#2C2F3A"/>
+  <rect x="36" y="250" width="534" height="8" rx="2" fill="#2E3E6E"/>
+  <rect x="36" y="250" width="534" height="4" rx="2" fill="#4A5FA3" opacity="0.5"/>
+  <rect x="36" y="250" width="534" height="2" rx="1" fill="#7FA9E1" opacity="0.2"/>
+  <circle cx="570" cy="254" r="4" fill="#4B3F73" stroke="#7A6AAE" stroke-width="1"/>
+
+  <line x1="8" y1="296" x2="672" y2="296" stroke="#2E3E6E" stroke-width="0.8"/>
+  <rect x="8" y="296" width="664" height="36" rx="0" fill="#2C2F3A" opacity="0.3"/>
+
+  <rect x="24" y="308" width="8" height="8" rx="1" fill="#4A5FA3" opacity="0.6"/>
+  <rect x="36" y="308" width="8" height="8" rx="1" fill="#2E3E6E" opacity="0.8"/>
+  <rect x="48" y="308" width="8" height="8" rx="1" fill="#4B3F73" opacity="0.6"/>
+
+  <rect x="620" y="308" width="8" height="8" rx="1" fill="#4B3F73" opacity="0.6"/>
+  <rect x="632" y="308" width="8" height="8" rx="1" fill="#2E3E6E" opacity="0.8"/>
+  <rect x="644" y="308" width="8" height="8" rx="1" fill="#4A5FA3" opacity="0.6"/>
+
+</svg>
