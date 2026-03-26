@@ -74,7 +74,7 @@ Panel interactivo de visualización de datos.
 ---
 
 ## 🧠 Skills
-<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card.svg" width="400"/>
+<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_peter_v3.svg" width="400"/>
 Studing **Multiplatform Application Developer (MAD)** 
 
 - 🚀 Interés en desarrollo backend 
