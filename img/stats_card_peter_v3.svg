@@ -10,7 +10,7 @@
   <rect x="24" y="20" width="6" height="26" rx="2" fill="#4A5FA3"/>
   <rect x="34" y="20" width="4" height="26" rx="2" fill="#7FA9E1" opacity="0.5"/>
 
-  <text font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#7FA9E1" x="50" y="38" letter-spacing="5">STATS</text>
+  <text font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#7FA9E1" x="50" y="38" letter-spacing="5">KNOWLEDGE</text>
   <text font-family="'Courier New', monospace" font-size="9" fill="#B8A9D6" x="50" y="52" letter-spacing="2" opacity="0.7">PETER OZAHL</text>
 
   <rect x="580" y="22" width="72" height="22" rx="3" fill="#2E3E6E" stroke="#4A5FA3" stroke-width="0.5"/>
