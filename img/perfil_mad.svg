@@ -1,0 +1,108 @@
+<svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+
+  <!-- Fondo -->
+  <rect width="700" height="420" fill="#f5f4f0"/>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- CARD 1 · Formación (padre) — col izq, fila 1   -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <g id="card-formacion">
+    <!-- rect padre -->
+    <rect x="20" y="20" width="325" height="110" rx="12" fill="#ffffff" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+    <!-- acento top -->
+    <rect x="20" y="20" width="325" height="3" rx="2" fill="#7F77DD"/>
+
+    <!-- hijo: label -->
+    <text x="38" y="50" font-size="10" font-weight="500" fill="#7F77DD" letter-spacing="1">FORMACIÓN</text>
+    <!-- hijo: título -->
+    <text x="38" y="74" font-size="14" font-weight="500" fill="#1a1a18">Multiplatform Application Developer</text>
+    <!-- hijo: subtítulo -->
+    <text x="38" y="94" font-size="12" fill="#666663">Ciclo formativo de Grado Superior · MAD</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- CARD 2 · Especialización (padre) — col der, fila 1 -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <g id="card-backend">
+    <rect x="355" y="20" width="325" height="110" rx="12" fill="#ffffff" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+    <rect x="355" y="20" width="325" height="3" rx="2" fill="#1D9E75"/>
+
+    <!-- hijo: label -->
+    <text x="373" y="50" font-size="10" font-weight="500" fill="#1D9E75" letter-spacing="1">ESPECIALIZACIÓN</text>
+    <!-- hijo: título -->
+    <text x="373" y="74" font-size="14" font-weight="500" fill="#1a1a18">Desarrollo Backend</text>
+    <!-- hijo: subtítulo -->
+    <text x="373" y="94" font-size="12" fill="#666663">APIs REST · Java · Arquitectura de servicios</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- CARD 3 · Stack (padre) — col izq, fila 2       -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <g id="card-stack">
+    <rect x="20" y="145" width="325" height="120" rx="12" fill="#ffffff" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+    <rect x="20" y="145" width="325" height="3" rx="2" fill="#D85A30"/>
+
+    <!-- hijo: label -->
+    <text x="38" y="175" font-size="10" font-weight="500" fill="#D85A30" letter-spacing="1">STACK PRINCIPAL</text>
+
+    <!-- hijo: badges (cada uno es un grupo rect+text) -->
+    <g id="badge-java">
+      <rect x="38" y="185" width="44" height="22" rx="8" fill="#FAECE7"/>
+      <text x="60" y="200" font-size="12" fill="#993C1D" text-anchor="middle">Java</text>
+    </g>
+    <g id="badge-rest">
+      <rect x="90" y="185" width="66" height="22" rx="8" fill="#FAECE7"/>
+      <text x="123" y="200" font-size="12" fill="#993C1D" text-anchor="middle">REST API</text>
+    </g>
+    <g id="badge-backend">
+      <rect x="164" y="185" width="66" height="22" rx="8" fill="#FAECE7"/>
+      <text x="197" y="200" font-size="12" fill="#993C1D" text-anchor="middle">Backend</text>
+    </g>
+    <g id="badge-http">
+      <rect x="38" y="214" width="80" height="22" rx="8" fill="#FAECE7"/>
+      <text x="78" y="229" font-size="12" fill="#993C1D" text-anchor="middle">HTTP / JSON</text>
+    </g>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- CARD 4 · Idiomas (padre) — col der, fila 2     -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <g id="card-idiomas">
+    <rect x="355" y="145" width="325" height="120" rx="12" fill="#ffffff" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+    <rect x="355" y="145" width="325" height="3" rx="2" fill="#378ADD"/>
+
+    <!-- hijo: label -->
+    <text x="373" y="175" font-size="10" font-weight="500" fill="#378ADD" letter-spacing="1">IDIOMAS</text>
+
+    <!-- hijo: fila inglés + badge -->
+    <text x="373" y="200" font-size="13" font-weight="500" fill="#1a1a18">Inglés</text>
+    <rect x="610" y="186" width="52" height="20" rx="8" fill="#E6F1FB"/>
+    <text x="636" y="200" font-size="12" fill="#185FA5" text-anchor="middle">B2</text>
+
+    <!-- hijo: barra track -->
+    <rect x="373" y="212" width="289" height="6" rx="3" fill="#eeecea"/>
+    <!-- hijo: barra fill (70% de 289 = 202) -->
+    <rect x="373" y="212" width="202" height="6" rx="3" fill="#378ADD"/>
+
+    <!-- hijo: etiquetas A1 / C2 -->
+    <text x="373" y="230" font-size="10" fill="#888780">A1</text>
+    <text x="662" y="230" font-size="10" fill="#888780" text-anchor="end">C2</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════════════ -->
+  <!-- CARD 5 · Actitud (padre) — ancho completo      -->
+  <!-- ═══════════════════════════════════════════════ -->
+  <g id="card-actitud">
+    <rect x="20" y="280" width="660" height="120" rx="12" fill="#ffffff" stroke="rgba(0,0,0,0.12)" stroke-width="0.5"/>
+    <rect x="20" y="280" width="660" height="3" rx="2" fill="#BA7517"/>
+
+    <!-- hijo: label -->
+    <text x="38" y="310" font-size="10" font-weight="500" fill="#BA7517" letter-spacing="1">ACTITUD</text>
+    <!-- hijo: título -->
+    <text x="38" y="334" font-size="14" font-weight="500" fill="#1a1a18">Aprendizaje continuo</text>
+    <!-- hijo: descripción (partido en 2 líneas) -->
+    <text x="38" y="355" font-size="12" fill="#666663">Mentalidad orientada al crecimiento constante, exploración de nuevas tecnologías</text>
+    <text x="38" y="373" font-size="12" fill="#666663">y mejora progresiva de habilidades en desarrollo de software.</text>
+  </g>
+
+</svg>
