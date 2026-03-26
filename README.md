@@ -74,19 +74,21 @@ Panel interactivo de visualización de datos.
 ---
 
 ## 🧠 Skills
-<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_peter_v3.svg" width="400"/>
-<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_v3.svg" width="400"/>
-</br></br>
-<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/perfil_mad.svg" width="400"/>
-</br></br>
----
+<img align="right" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_peter_v3.svg" width="400" />
 
-<p align="center">
+<img align="left" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/stats_card_v3.svg" width="400"/>
+
+<img align="center" src="https://github.com/peterozahlll/peterozahlll/blob/main/img/perfil_mad.svg" width="400"/>
+</br></br>
+
+
+<!--<p align="center">
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
-</p>
+</p>-->
 
+</br></br></br></br></br>
 ---
 
 ## 📊 GitHub Stats
